@@ -1,0 +1,17 @@
+{
+  "name": "Yourloft",
+  "displayName": "Yourloft",
+  "expo": {
+    "name": "Yourloft",
+    "slug": "Yourloft",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
