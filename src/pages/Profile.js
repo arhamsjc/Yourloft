@@ -30,7 +30,7 @@ const styles = StyleSheet.create({
 	}
 })
 
-class Profile extends Component<{}> {
+class Profile extends Component {
 	logoutUser = () => {
 		this.props.dispatch(logoutUser())
 	}
